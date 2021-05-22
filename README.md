@@ -1,4 +1,4 @@
-### Hi there, My Name is Brandon 👋
+### Hi, My Name is Brandon 👋
 
 <!--
 **Mesmerize/Mesmerize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm currently a Comp Sci Student, and Software Developer 🤓!
+## I'm Currently a Comp Sci Student, and Software Developer 🤓!
 - 😃 You Can Check Out My [Portfolio](https://brandonsportfolio.netlify.app/)!
 - 👨‍💻 Learning Full Stack Development, With an Emphasis on Front End
 - 💻 Looking to Get a Job As a Front End Software Developer
