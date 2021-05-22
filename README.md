@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Currently a Comp Sci Student, and Software Developer 🤓!
+## I'm Currently a Comp Sci Student, and Software Developer 😛!
 - 😃 You Can Check Out My [Portfolio](https://brandonsportfolio.netlify.app/)!
 - 👨‍💻 Learning Full Stack Development, With an Emphasis on Front End
 - 💻 Looking to Get a Job As a Front End Software Developer
-- 🥡 I Like Eating Sushi and Drinking Boba 🧋
+- 🥡 I Like Eating Sushi and Drinking Boba
+- 🏎️ I Am Also a Car Enthusiast
 
 ## Connect with me:
 
