@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
-[<img align="left" alt="My LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mesmerize/)
+[<img align="left" alt="My LinkedIn" width="22px" src="![image](https://user-images.githubusercontent.com/67185805/119214136-449ed080-ba79-11eb-9aa7-602348712553.png)" />](https://www.linkedin.com/in/mesmerize/)
 
 <br />
 
