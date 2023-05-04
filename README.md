@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💻 Looking to Get a Job As a Front End Software Developer
 - 🥡 I Like Eating Sushi and Drinking Boba
 - 🏎️ I Am Also a Car Enthusiast
-- 🔬 I have also worked on an impactful open source research in the grounds of theoretrical computer science in an attempt to construct on a succint data structure for finite automatas to have more efficient membership query times. This research was conducted based on my undergraduate requirement at Sonoma State University.
+- 🔬 I have also worked on an impactful open source research in the grounds of theoretrical computer science in an attempt to construct on a succint data structure for finite automatas to have more efficient membership query times. This research was conducted based on my undergraduate requirement at Sonoma State University. [Link to Research Paper](https://www.linkedin.com/feed/update/urn:li:activity:7046163989898137600/)
 
 ## Connect with me:
 
